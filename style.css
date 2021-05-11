@@ -34,7 +34,7 @@
     width: 6em;
     height: 6em;
     margin: auto;
-    background-image: url("/img/salman.jpg");
+    background-image: url("img/salman.jpg");
     background-size: cover;
     background-color: #EEEEEE;
     border-radius: 100%;
